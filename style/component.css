@@ -1,0 +1,58 @@
+.btn {
+    background: transparent !important;
+    border-color: white;
+    border-width: 2px;
+    border-radius: 6px;
+}
+
+.btn:hover {
+    color: #0da4e3;
+    border-color: #0da4e3;
+}
+
+a {
+    color: white !important;
+}
+
+.active {
+    color: #0da4e3 !important;
+}
+
+a:hover {
+    color: #0da4e3 !important;
+}
+
+input, textarea {
+    color: black !important;
+    background-color: white !important;
+}
+
+input:hover, textarea:hover {
+    background-color: white !important;
+    outline: solid 2px #0da4e3;
+    outline-offset: -2px;
+}
+
+input:active, textarea:active {
+    border-color: #0da4e3;
+}
+
+i {
+    color: white;
+}
+
+i:hover {
+    color: #0da4e3;
+}
+
+.card {
+    color: white;
+    border-color: white;
+    background-color: transparent !important;
+}
+
+.nav-item {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
